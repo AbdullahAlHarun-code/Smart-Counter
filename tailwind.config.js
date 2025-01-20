@@ -17,6 +17,10 @@ module.exports = {
     'disabled:bg-blue-300',
     'disabled:bg-yellow-300',
     'disabled:bg-red-300',
+    'text-green-700',
+    'text-red-700',
+    'text-black-700',
+    'scale-150',
   ],
   plugins: [],
 }
