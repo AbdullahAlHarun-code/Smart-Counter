@@ -50,7 +50,7 @@ export default function App() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
       <img className="w-56 mb-4" src={logo} alt="" />
-      <h1 className="text-4xl font-bold mb-4">Counter App</h1>
+      <h1 className="text-4xl font-bold mb-4">Smart Counter</h1>
       <div className="bg-white p-5 rounded-lg shadow-md">
         <p className='text-orange-500 h-5'>{alertMsg}</p>
         <CounterDisplay tcolor={countTextColor} count={count} zoom={zoom}/> 
